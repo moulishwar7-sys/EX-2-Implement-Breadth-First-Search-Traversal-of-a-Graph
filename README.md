@@ -83,7 +83,8 @@ Enter the starting node for BFS: A
 BFS Traversal Order: ['A', 'B', 'C']
 
 ### input and output:
-![WhatsApp Image 2025-09-08 at 14 10 15 - Copy](https://github.com/user-attachments/assets/af65c5a6-43ef-4125-9af4-024f27ffdd5c)
+![WhatsApp Image 2025-09-08 at 14 10 53](https://github.com/user-attachments/assets/cfc17acf-f74f-4714-8013-8d6c14925af3)
+
 ![WhatsApp Image 2025-09-08 at 14 10 15](https://github.com/user-attachments/assets/7ece825c-df32-4889-ace5-90a7d70b24fc)
 
 
