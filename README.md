@@ -1,8 +1,8 @@
 # EX-2: Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-**Name:Moulishwar g**
+**Name: Moulishwar g**
 
-**Register Number:2305001020**
+**Register Number: 2305001020**
 
 ### Aim:
 To Implement Breadth First Search Traversal of a Graph using Python 3.
